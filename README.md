@@ -1,4 +1,4 @@
 # practica-1
 # nombres
-isabella bejarano 
-sebastian serna 
+isabella bejarano  
+ sebastian serna 
